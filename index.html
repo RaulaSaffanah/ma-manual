@@ -10,22 +10,56 @@
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
     <link rel="stylesheet" href="//unpkg.com/docsify/themes/buble.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      .title {
+        font-family: "Inconsolata", monospace;
+        font-size: 22px;
+      }
+      .subt {
+        font-family: "Fira Sans Condensed", sans-serif;
+        font-size: 24px;
+        color: #248ea9;
+      }
+      .title {
+        color: #1f87be;
+      }
+      .sub {
+        color: #2775a0;
+        font-family: "Inconsolata", monospace;
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: "<span>monita admin<br> manual</span>",
+        name: "",
         repo: ""
       };
     </script>
-    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-
-    <!-- index.html -->
-
     <script>
       window.$docsify = {
         loadSidebar: true
+      };
+    </script>
+    <script>
+      window.$docsify = {
+        loadSidebar: true,
+        alias: {
+          "/.*/_sidebar.md": "/_sidebar.md"
+        }
       };
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
