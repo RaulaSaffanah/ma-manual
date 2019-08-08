@@ -3,3 +3,6 @@
 Module Parsing merupakan halaman antarmuka pada Monita Admin yang digunakan untuk mengelola data serta urutan agar data dapat masuk secara teratur.
 
 ### <div class="subt">Petunjuk Penggunaan:</div>
+
+<img src="media/mam10.png" style="align: center;" >
+<img src="media/mam13.png" style="align: center;" >
