@@ -4,7 +4,9 @@ Asset management merupakan halaman antarmuka yang menampilkan data-data setiap s
 
 ### <div class="subt">Petunjuk Penggunaan:</div>
 
-Untuk menambahkan asset kedalam asset management maka anda bisa menekan tombol (+)
+#### <div class="t1">Menambahkan Asset</div>
+
+Untuk menambahkan asset kedalam asset management tekan tombol (+)
 
 <img src="media/mam2(7).png" style="align: center;" >
 
@@ -12,7 +14,9 @@ Lalu memasukan nama dan memilih tipe asset seperti berikut:
 
 <img src="media/mam2(8).png" style="align: center;" >
 
-Untuk menambahkan point pada _asset_ anda bisa menekan tombol (+) hingga keluar _form_ sebagai berikut:
+#### <div class="t1">Menambahkan Data Point Asset</div>
+
+Untuk menambahkan data point pada _asset_ tekan tombol (+) hingga keluar _form_ sebagai berikut:
 
 <img src="media/mam1.png" style="align: center;" >
 <br>
@@ -32,9 +36,9 @@ Name : nama satuan yang dihitung oleh sensor
 
 Unit : Satuan yang dihitung oleh sensor
 
-Range min : ....
+Range min : Jarak Minimal
 
-Range max : ....
+Range max : Jarak Maksimal
 
 M : ...
 
@@ -44,7 +48,9 @@ Point type : tipe titik
 
 ```
 
-Anda dapat melihat asset-asset yang sudah di masukan ke dalam asset management pada sebelah kiri dan data-data asset pada sebelah kanan pada tab detail points dan tab points
+#### <div class="t1">Melihat Data Asset</div>
+
+Untuk melihat asset-asset yang sudah di masukan ke dalam asset management pada sebelah kiri dan data-data asset pada sebelah kanan pada _tab detail_ dan _tab points_
 
 <img src="media/mam2(10).png" style="align: center;" >
 <br>

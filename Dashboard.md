@@ -8,10 +8,10 @@ Untuk melihat data dari server, pilihlah modul yang ingin di lihat dari _dropdow
 
 <img src="media/mam72.png" style="align: center;" >
 
-Anda dapat melihat data serta informasi parsing dan informasi Konfigurasi pada _tab Info Parsing_ Dan _tab info Config_
+Untuk melihat data serta informasi parsing dan informasi Konfigurasi pada _tab Info Parsing_ Dan _tab info Config_
 
 <img src="media/mam73.png" style="align: center;" >
 
-Anda dapat melihat data sistem pada _Tab System_
+Untuk melihat data sistem tekan _Tab System_
 
 <img src="media/screenshot74.png" style="align: center;" >
