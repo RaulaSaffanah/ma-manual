@@ -1,13 +1,27 @@
-# Visual Manager
+# Visual Editor
 
-Visual manager digunakan untuk mengelola data data visual monita(?)
+Visual Editor digunakan untuk mengelola data-data yang terdapat pada Visual Monita
 
-Petunjuk Penggunaan
+### Petunjuk Penggunaan:
 
 #### List Data
 
-![](media/mam14.png)
+_Klik_ kanan pada list data untuk membukanya
+
+![](media/mam45.png)
 
 #### Kolom edit
 
-![](media/mam15.png)
+Pada kolom edit terdapat beberapa fitur, yaitu:
+
+1. editing space
+
+   ![](media/mam48.png)
+
+2. pengubah ukuran font
+
+   ![](media/mam46.png)
+
+3. dropdown untuk mengganti themes editor
+
+   ![](media/mam47.png)

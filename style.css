@@ -1,0 +1,17 @@
+.sidebar-nav > p {
+  text-align: center;
+}
+
+.sidebar-nav > p > img {
+  width: 100px;
+}
+.sidebar-nav ul > li > p {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+#monita-admin-manual > a {
+  text-align: center;
+  color: rgb(36, 113, 136);
+  font-size: 30px;
+  font-family: "Saira Extra Condensed", sans-serif;
+}
