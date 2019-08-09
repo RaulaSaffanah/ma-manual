@@ -1,33 +1,23 @@
-<style>
-   .um {
-       position: absolute;
-       top: 93%;
-   }
-</style>
-
-# <div class="subt" style="font-size:35px;">User Management</div>
+# User Management
 
 User management merupakan halaman antarmuka yang digunakan untuk mengelola dan menampilkan data para pengguna Monita Admin
 
-<div class="subt">Petunjuk Penggunaan:</div>
+Petunjuk Penggunaan:
 
-<div class="um">
-
-#### <div class="t1">Menambahkan Pengguna</div>
+#### Menambahkan Pengguna
 
 Pada halaman ini, untuk menambahkan pengguna baru _klik_ tombol (+) untuk memunculkan _form_ sebagai berikut:
 
-<img src="media/mam5.png" style="align: center;" >
+![](media/mam5.png)
 
-#### <div class="t1">Merubah Data Pengguna</div>
+#### Merubah Data Pengguna
 
 Jiks ingin merubah data pengguna, _klik_ data sebagai berikut:
 
-<img src="media/mamus.png" style="align: center;" >
+![](media/mamus.png)
 
-#### <div class="t1">Menghapus Data Pengguna</div>
+#### Menghapus Data Pengguna
 
 Jika ingin menghapus data pengguna, _klik_ kanan pada data sebagai berikut:
 
-<img src="media/mam6.png" style="align: center;" >
-</div>
+![](media/mam6.png)

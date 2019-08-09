@@ -1,24 +1,13 @@
-<style>
-   .vm {
-       position: absolute;
-       top: 93%;
-   }
-</style>
-
-# <div class="subt" style="font-size:35px;">Visual Manager</div>
+# Visual Manager
 
 Visual manager digunakan untuk mengelola data data visual monita(?)
 
-<div class="subt">Petunjuk Penggunaan</div>
+Petunjuk Penggunaan
 
-<div class="vm">
+#### List Data
 
-#### <div class="t1">List Data</div>
+![](media/mam14.png)
 
-<img src="media/mam14.png" align= "center;" >
+#### Kolom edit
 
-#### <div class="t1">Kolom edit</div>
-
-<img src="media/mam15.png" align= "center;" >
-
-</div>
+![](media/mam15.png)
