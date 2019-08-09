@@ -1,8 +1,18 @@
+<style>
+   .jrk {
+       position: absolute;
+       top: 93%;
+   }
+
+</style>
+
 # <div class="subt" style="font-size:35px;">Asset Management</div>
 
 Asset management merupakan halaman antarmuka yang menampilkan data-data setiap sensor yang terhubung dengan Monita
 
-### <div class="subt">Petunjuk Penggunaan:</div>
+ <div class="subt">Petunjuk Penggunaan:</div>
+ 
+<div class="jrk">
 
 #### <div class="t1">Menambahkan Asset</div>
 
@@ -23,7 +33,6 @@ Untuk menambahkan data point pada _asset_ tekan tombol (+) hingga keluar _form_ 
 <br>
 <br>
 <img src="media/mam2.png" style="align: center;" >
-<br>
 <br>
 <br>
 
@@ -55,5 +64,8 @@ Untuk melihat asset-asset yang sudah di masukan ke dalam asset management pada s
 <img src="media/mam2(10).png" style="align: center;" >
 <br>
 <br>
-<br>
 <img src="media/mam2(12).png" style="align: center;" >
+<br>
+<br>
+<br>
+</div>

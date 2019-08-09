@@ -9,42 +9,50 @@
       name="viewport"
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
-    <link rel="stylesheet" href="//unpkg.com/docsify/themes/buble.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
+    />
+
     <link
       href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap"
       rel="stylesheet"
     />
+
     <link
       href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap"
       rel="stylesheet"
     />
+
     <link
       href="https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap"
       rel="stylesheet"
     />
+
     <link
       href="https://fonts.googleapis.com/css?family=Stint+Ultra+Condensed&display=swap"
       rel="stylesheet"
     />
+
     <link
       href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed&display=swap"
       rel="stylesheet"
     />
+
     <style>
       .title {
         font-family: "Saira Extra Condensed", sans-serif;
-        font-size: 34px;
+        font-size: 30px;
+        color: #26556e;
       }
       .subt {
         font-family: "Fira Sans Condensed", sans-serif;
-        font-size: 26px;
-        color: #248ea9;
-      }
-      .title {
-        color: #4caadd;
+        font-size: 28px;
+        color: #1f5968;
       }
       .sub {
-        color: #2775a0;
+        color: #113244;
         font-family: "Inconsolata", monospace;
       }
       .t1 {
@@ -54,6 +62,7 @@
       }
     </style>
   </head>
+
   <body>
     <div id="app"></div>
     <script>
@@ -62,19 +71,28 @@
         repo: ""
       };
     </script>
+
     <script>
       window.$docsify = {
         loadSidebar: true
       };
     </script>
+
     <script>
       window.$docsify = {
         loadSidebar: true,
         alias: {
           "/.*/_sidebar.md": "/_sidebar.md"
+        },
+        themeable: {
+          readyTransition: true, // default
+          responsiveTables: true // default
         }
       };
     </script>
+
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
   </body>
 </html>
