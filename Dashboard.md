@@ -4,11 +4,11 @@ Dashboard merupakan halaman antarmuka yang menampilkan data dari setiap modul se
 
 ### Petunjuk Penggunaan:
 
-Untuk melihat data dari server, pilihlah modul yang ingin di lihat dari _dropdown_ seperti di gambar.
+Untuk memulai, pilihlah modul yang ingin di lihat dari _dropdown_ seperti di gambar.
 
 ![](media/mam72.png)
 
-Untuk melihat data serta informasi parsing dan informasi Konfigurasi pada _tab Info Parsing_ Dan _tab info Config_.
+Untuk melihat data parsing serta data Konfigurasi modul, tekan _tab Info Parsing_ atau _tab info Config_.
 
 ![](media/mam73.png)
 

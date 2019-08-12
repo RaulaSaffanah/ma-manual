@@ -22,25 +22,17 @@ Untuk menambahkan data point pada _asset_ tekan tombol (+) hingga keluar _form_ 
 
 ![](media/mam2.png)
 
-```
 Dengan Catatan:
 
+```
 ID : nomor identifikasi monita
-
 Name : nama satuan yang dihitung oleh sensor
-
 Unit : Satuan yang dihitung oleh sensor
-
 Range min : Jarak Minimal
-
 Range max : Jarak Maksimal
-
 M : ...
-
 c : ...
-
 Point type : tipe titik
-
 ```
 
 #### Melihat Data Asset
