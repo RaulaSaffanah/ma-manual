@@ -1,6 +1,6 @@
 # Visual Menu
 
-Visual menu di gunakan untuk mengurutkan data
+Visual menu digunakan untuk mengurutkan data
 
 ### Petunjuk Penggunaan:
 

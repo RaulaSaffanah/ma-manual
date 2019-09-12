@@ -15,3 +15,4 @@
   - [User Management](User_management.md)
   - [Visual Editor](Visual_manager.md)
   - [Visual Menu](visual_menu.md)
+  - [Formula](formula.md)
